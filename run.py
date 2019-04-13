@@ -8,3 +8,4 @@ right_border = '\n\n/*'
 
 text = html[html.index(left_border)+len(left_border):html.index(right_border)]
 
+print(text)
